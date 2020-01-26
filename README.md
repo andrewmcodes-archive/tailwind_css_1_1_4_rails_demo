@@ -2,7 +2,7 @@
 
 For the purpose of this tutorial, we will assume you have Ruby and the Rails gem installed. Please visit the [Getting Started with Rails Guide](https://guides.rubyonrails.org/getting_started.html) if you do not.
 
-I will also be working through the creation of code in [this repo](#). Please use the repo as a resource to help you in case you get stuck or open issues if it's broken!!
+I will also be working through the creation of code in [this repo](https://github.com/andrewmcodes/tailwind_css_rails_demo). Please use the repo as a resource to help you in case you get stuck or open issues if it's broken!!
 
 I created this demo using the following:
 
@@ -267,6 +267,6 @@ Hopefully this is helpful to those of you looking to add TailwindCSS to your Rai
 
 If you are interested in more information about this article of using Rails and TailwindCSS, leave a comment or reach out to me on Twitter and I am happy to chat.
 
-[View repo for this post]()
+[View repo for this post](https://github.com/andrewmcodes/tailwind_css_rails_demo)
 
 Happy coding! 😄
