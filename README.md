@@ -1,4 +1,4 @@
-# Tutorial
+# Ruby on Rails 6 and TailwindCSS 1.1.4
 
 For the purpose of this tutorial, we will assume you have Ruby and the Rails gem installed. Please visit the [Getting Started with Rails Guide](https://guides.rubyonrails.org/getting_started.html) if you do not.
 
@@ -37,6 +37,7 @@ rails s
 And webpack-dev-server:
 
 ```sh
+# Terminal tab 2
 ./bin/webpack-dev-server
 ```
 
@@ -181,7 +182,7 @@ to:
 
 Restart the Rails server and webpack-dev-server and you should now see the following on `localhost:3000`:
 
-![tailwind home index](https://imgur.com/AaxxvBk)
+![tailwind home index](https://i.imgur.com/AaxxvBk.jpg)
 
 Tailwind should now be working so lets tweak our views to see some Tailwind goodness.
 
@@ -239,7 +240,7 @@ and in `app/views/posts/index.html.erb` lets replace the scaffolded page with th
 
 You should now see the following page when you navigate to `localhost:3000`
 
-![updated tailwind home index](https://imgur.com/aiOlHht)
+![updated tailwind home index](https://i.imgur.com/aiOlHht.jpg)
 
 ## Abstraction
 
